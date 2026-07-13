@@ -8,3 +8,5 @@ Jira Bug Report: [Click here](https://drive.google.com/file/d/1CgP-gkQk83FVrA08e
 
 Example test case using Hamcrest Matchers <br>
 Project: [Click here](https://github.com/KavijaSen/HamcrestTests) <br>
+
+Sample Selenium-Azure Automation framework: https://github.com/KavijaSen/Selenium-Azure-automation-framework
